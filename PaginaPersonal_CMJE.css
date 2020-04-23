@@ -1,5 +1,5 @@
 body {
-    background-image: url('http://saturnia-terme.com/media/grafica/sfondi/neroazzurro.jpg');
+    background-image: url('https://i.pinimg.com/originals/3f/f1/c8/3ff1c883703789134dd1b6841b7e9ad6.jpg');
     background-size: auto
 }
 h1 { font: 200% sans-serif;
@@ -11,7 +11,21 @@ h1 { font: 200% sans-serif;
     color: white;
 
 }
-h2 { font: 200% cursive;
-    color: white;
+h2 { font: 150% cursive;
+    color: rgb(182, 235, 123);
     text-align: center;
 }
+#tab2, #th2 {
+    background-color: rgb(225, 241, 248);
+    color: rgb(0, 0, 0);
+}
+p{
+    font: 100% sans-serif;
+    color: rgb(10, 73, 18);
+    text-align: center;
+}
+#p1 {
+    font: 90% sans-serif;
+    text-align: center;
+    color: white;
+  }
