@@ -1,0 +1,17 @@
+body {
+    background-image: url('http://saturnia-terme.com/media/grafica/sfondi/neroazzurro.jpg');
+    background-size: auto
+}
+h1 { font: 200% sans-serif;
+    color: yellowgreen;
+    text-align: center;
+}
+#tab1, #th1 {
+    background-color: black;
+    color: white;
+
+}
+h2 { font: 200% cursive;
+    color: white;
+    text-align: center;
+}
