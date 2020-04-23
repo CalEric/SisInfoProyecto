@@ -1,0 +1,19 @@
+body{
+background-image: url('https://isatis-informatique.com/wp-content/uploads/2018/05/FOND13.png');
+background-size: auto;
+}
+
+h1{
+  font:400% sans-serif;
+  color:white;
+  text-align: center;
+
+}
+
+
+h2{
+  font:200% sans-serif;
+  color:white;
+  text-align: left;
+
+}
