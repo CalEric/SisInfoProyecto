@@ -4,6 +4,6 @@ INTEGRANTES:
 - Carrillo Alejos Eric,
 - Chimal Mosso Jesús Enrique,
 - Flores López Fausto,
-- Larios Cruz Ivan Alejandro,
 - Marco Alberto Martínez Servín,
+- Larios Cruz Ivan Alejandro,
 - Torres Carreón Daniel Steven
