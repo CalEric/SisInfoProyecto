@@ -1,5 +1,5 @@
 # SisInfoProyecto
-INTEGRANTES: 
+INTEGRANTES:
 - Becerra Peréz José Ramón,
 - Carrillo Alejos Eric,
 - Chimal Mosso Jesús Enrique,
