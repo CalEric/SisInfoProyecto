@@ -1,4 +1,6 @@
 # SisInfoProyecto
+Sistemas de Información
+Proyecto de Desarrollo en equipo usando github
 INTEGRANTES:
 - Becerra Peréz José Ramón,
 - Carrillo Alejos Eric,
